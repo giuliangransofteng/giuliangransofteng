@@ -38,13 +38,14 @@ Meu foco está na criação de dashboards que sejam realmente utilizados, na aut
 
 ---
 
-## [🏆 Confira meu portfólio](https://seu-nome-de-usuario.github.io/)
-
+<h2>
+  <a href="https://seu-nome-de-usuario.github.io/">🏆 Confira meu portfólio</a>
+</h2>
 <p align="left">
- <a href="https://github.com/giulianoribeiro">
-    <img src="https://img.shields.io/badge/GitHub-GIULIANORIBEIRO-181717?style=for-the-badge&logo=github" />
-    </a>
-   </p>
+  <a href="https://github.com/giulianoribeiro">
+    <img src="https://img.shields.io/badge/GitHub-GIULIANORIBEIRO-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+</p>
    
    ## 🔭 No que estou trabalhando atualmente
 
