@@ -20,14 +20,13 @@ Meu foco está na criação de dashboards que sejam realmente utilizados, na aut
 ---
 
 ## 🌐 Onde me encontrar
-
-<p align="left">
-<a href="mailto:giuliano.souza@gmail.com"><img src="https://img.shields.io/badge/Email-Contato-green?style=for-the-badge&logo=gmail"></a>
- <a href="https://www.linkedin.com/in/giuliano-ribeiro-de-souza-553b21434/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-   
-</p>
+<div align="left">
+<p>
+<a href="mailto:giuliano.rsouza@gmail.com">
+<img src="https://img.shields.io/badge/-email-D3D3D3?style=for-the-badge&amp;logo=gmail&amp;logoColor=BB001B&amp;color:FFF" alt="E-mail">
+</a>
+<a href="https://www.linkedin.com/in/giuliano-ribeiro-de-souza-553b21434/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=6ED2B6&amp;color:FFF" alt="LinkedIn"></a></p>
+</div>
 
 ---
 
