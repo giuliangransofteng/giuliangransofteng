@@ -1,7 +1,7 @@
-<h2>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="35" height="35" />
+<h1 align="left">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="45" height="45" />
   <b>Olá, eu sou Giuliano Ribeiro</b>
-</h2>
+</h1>
 
 ## 🚀Sobre mim
 
@@ -40,16 +40,14 @@ Meu foco está na criação de dashboards que sejam realmente utilizados, na aut
 
 ---
 
-<h2>
-  <a href="https://seu-nome-de-usuario.github.io/">🏆 Confira meu portfólio</a>
-</h2>
+<h2 align="left">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="35" height="35" />
+  Confira meu portfólio
 <p align="left">
   <a href="https://github.com/giulianoribeiro">
     <img src="https://img.shields.io/badge/GitHub-GIULIANORIBEIRO-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
 </p>
-   
-   ## 🔭 No que estou trabalhando atualmente
 
 - **Projeto A:** [Breve descrição, em uma linha, de um projeto — por exemplo: Desenvolvimento de um modelo de previsão de vendas em Python.]
 - **Projeto B:** [Breve descrição, em uma linha, de outro projeto — por exemplo: Criação de um dashboard interativo de marketing no Power BI.]
@@ -65,7 +63,7 @@ Meu foco está na criação de dashboards que sejam realmente utilizados, na aut
 
 ---
 
-## 🌱 O que estou aprendendo no momento
+## 🔭 O que estou aprendendo no momento
 
 - [Uma nova habilidade ou tecnologia que você está explorando — por exemplo: Técnicas avançadas de aprendizado de máquina (machine learning) com Scikit-learn.]
 - [Outra habilidade — por exemplo: Armazenamento de dados em nuvem (cloud data warehousing) com Google BigQuery.]
