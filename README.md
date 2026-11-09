@@ -7,7 +7,7 @@
 
 **Engenheiro de Software júnior | Desenvolvedor Full Stack**
 
-## ADAPTAR O TEXTO (RETIRAR ISSO)
+## ADAPTAR O TEXTO (TEXTO EM CONSTRUÇÃO)
 
 Desenvolvo através da combinação de tecnologias de Front-end e Back-end **sistemas web de alto desempenho** e **produtos escaláveis**.
 
