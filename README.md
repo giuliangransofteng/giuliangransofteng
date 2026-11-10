@@ -8,15 +8,6 @@
 **Engenheiro de Software júnior | Desenvolvedor Full Stack**
 
 ## PAGINA EM CONSTRUÇÃO
-## ADAPTAR O TEXTO
-
-Desenvolvo através da combinação de tecnologias de Front-end e Back-end **sistemas web de alto desempenho** e **produtos escaláveis**.
-
-Tenho um foco em **arquitetura, performance, código limpo e soluções voltadas para estratégia de negócio**.
-
-Sou um analista de dados apaixonado por ajudar empresas a entenderem seus dados. Gosto de transformar conjuntos de dados complexos e desorganizados em narrativas claras e insights que podem ser colocados em prática.
-
-Meu foco está na criação de dashboards que sejam realmente utilizados, na automação de tarefas repetitivas — liberando as equipes para lidarem com desafios mais interessantes — e no desenvolvimento de modelos que auxiliam as empresas no planejamento para o futuro. Quando não estou trabalhando com dados, gosto de [seu hobby ou paixão, por exemplo: criar conteúdo, fazer trilhas, mentorar outras pessoas, etc.]. Adoro aquele momento de "eureka!" em que os dados revelam algo novo e útil.
 
 ---
 
