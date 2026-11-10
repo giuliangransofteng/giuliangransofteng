@@ -22,16 +22,6 @@
 
 ---
 
-## 🧠 O que eu faço
-
-- 🤖 Automação e integrações
-- 🧩 Arquitetura limpa e design de sistemas
-- 🔐 APIs seguras e autenticação
-- 📊 Dashboards e análise de dados
-- ⚡ Otimização de performance
-
----
-
 <h2 align="left">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="35" height="35" />
   Confira meu portfólio
@@ -40,10 +30,6 @@
     <img src="https://img.shields.io/badge/GitHub-GIULIANORIBEIRO-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
 </p>
-
-- **Projeto A:** [Breve descrição, em uma linha, de um projeto — por exemplo: Desenvolvimento de um modelo de previsão de vendas em Python.]
-- **Projeto B:** [Breve descrição, em uma linha, de outro projeto — por exemplo: Criação de um dashboard interativo de marketing no Power BI.]
-- **Projeto C:** [Por exemplo: Desenvolvimento de novos tutoriais sobre visualização de dados para o meu canal no YouTube.]
 
 ## 📊 Estatisticas GitHub
 
