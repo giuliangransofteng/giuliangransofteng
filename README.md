@@ -25,6 +25,8 @@
 <h2 align="left">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="35" height="35" />
   Confira meu portfólio
+  EM CONSTRUÇÃO
+  
 <p align="left">
   <a href="https://github.com/giulianoribeiro">
     <img src="https://img.shields.io/badge/GitHub-GIULIANORIBEIRO-181717?style=for-the-badge&logo=github" alt="GitHub" />
@@ -43,8 +45,7 @@
 
 ## 🔭 O que estou aprendendo no momento
 
-- [Uma nova habilidade ou tecnologia que você está explorando — por exemplo: Técnicas avançadas de aprendizado de máquina (machine learning) com Scikit-learn.]
-- [Outra habilidade — por exemplo: Armazenamento de dados em nuvem (cloud data warehousing) com Google BigQuery.]
+EM CONSTRUÇÃO
 
   ***
 
