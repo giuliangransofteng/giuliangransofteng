@@ -14,7 +14,7 @@
 ## 🌐 Onde me encontrar
 <div align="left">
 <p>
-<a href="mailto:giuliano.rsouza@gmail.com">
+<a href="mailto:giulian.gransoft@gmail.com">
 <img src="https://img.shields.io/badge/-email-D3D3D3?style=for-the-badge&amp;logo=gmail&amp;logoColor=BB001B&amp;color:FFF" alt="E-mail">
 </a>
 <a href="https://www.linkedin.com/in/giuliano-ribeiro-de-souza-553b21434/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=6ED2B6&amp;color:FFF" alt="LinkedIn"></a></p>
