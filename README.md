@@ -27,7 +27,7 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="35" height="35" />
   Confira meu portfólio
   <a href="https://github.com/giulianoribeiro">
-    <img src="https://img.shields.io/badge/GitHub-GiulianoRibeiro-181717?style=for-the-badge&logo=github" alt="GitHub" height="23" />
+    <img src="https://img.shields.io/badge/GitHub-GiulianoRibeiro-181717?style=for-the-badge&logo=github" alt="GitHub" height="20" />
   </a>
 </h2>
 
