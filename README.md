@@ -22,17 +22,18 @@
 
 ---
 
+
 <h2 align="left">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="35" height="35" />
   Confira meu portfólio
-   
-<p align="left">
   <a href="https://github.com/giulianoribeiro">
-    <img src="https://img.shields.io/badge/GitHub-GIULIANORIBEIRO-181717?style=for-the-badge&logo=github" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-GiulianoRibeiro-181717?style=for-the-badge&logo=github" alt="GitHub" height="23" />
   </a>
-</p>
+</h2>
 
  EM CONSTRUÇÃO
+
+---
 
 ## 📊 Estatisticas GitHub
 
@@ -43,10 +44,6 @@
 </div>
 
 ---
-
-## 🔭 O que estou aprendendo no momento
-
-EM CONSTRUÇÃO
 
   ***
 
@@ -100,6 +97,13 @@ EM CONSTRUÇÃO
 
 <div align="left">
         <img height="180" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=giulianoribeiro&layout=compact&langs_count=8&theme=onedark&count_private=true">
+
+<h2>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Teacher%20Light%20Skin%20Tone.png" alt="Teacher" width="30" height="30" />
+  O que estou aprendendo no momento
+</h2>
+
+EM CONSTRUÇÃO
 
 ---
 
