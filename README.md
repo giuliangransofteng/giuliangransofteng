@@ -31,7 +31,7 @@
   </span>
 
   <!-- Bloco 2: GitHub e Nome -->
-  <span style="display: inline-flex; align-items: center; gap: 8px;">
+  <span style="display: inline-flex; align-items: center; gap: 15px;">
     <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="Ícone GitHub" height="28" width="28" style="vertical-align: middle;" />
     <span style="color: #ffffff; font-family: sans-serif; font-weight: bold; font-size: 24px; letter-spacing: 0.5px; vertical-align: middle;">GiulianoRibeiro</span>
   </span>
