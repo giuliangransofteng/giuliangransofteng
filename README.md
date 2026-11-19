@@ -43,10 +43,14 @@
 
 ## 📊 Estatisticas GitHub
 
-<div align="left">
+<div style="display: flex; gap: 32px; flex-wrap: wrap; align-items: flex-start;">
+  <!-- Gráfico 1: Estatísticas -->
   <a href="https://github.com/giulianoribeiro">
-    <img height="180" src="https://github-stats-extended.vercel.app/api?username=giulianoribeiro&rank_icon=github&theme=yeblu">
-       </a>
+    <img height="180" src="https://github-stats-extended.vercel.app/api?username=giulianoribeiro&rank_icon=github&theme=yeblu" alt="GitHub Stats" />
+  </a>
+  
+  <!-- Gráfico 2: Linguagens -->
+  <img height="180" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=giulianoribeiro&layout=compact&langs_count=8&theme=onedark&count_private=true" alt="Top Languages" />
 </div>
 
 ---
@@ -100,9 +104,6 @@
 ![Git](https://img.shields.io/badge/Git-B0C4DE?style=for-the-badge&logo=git)
 
 ---
-
-<div align="left">
-        <img height="180" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=giulianoribeiro&layout=compact&langs_count=8&theme=onedark&count_private=true">
 
 <h2>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Teacher%20Light%20Skin%20Tone.png" alt="Teacher" width="30" height="30" />
