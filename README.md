@@ -23,17 +23,19 @@
 ---
 
 
-<h2 style="display: flex; align-items: center; justify-content: flex-start; gap: 05px; margin: 0; padding: 0 10px;">
+<h2 style="display: flex; align-items: center; justify-content: flex-start; gap: 20px; margin: 0; padding: 0 10px; white-space: nowrap;">
   <!-- Bloco 1: Título -->
-  <div style="display: inline-flex; align-items: center; gap: 8px;">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist" width="28" height="28" />
-    <span style="color: #ffffff; font-family: sans-serif; font-weight: bold; font-size: 24px; letter-spacing: 0.5px;">Confira meu portfólio</span>
-  </div> <!-- Bloco 2: GitHub e Nome -->
-  <div style="display: inline-flex; align-items: center; gap: 8px;">
-    <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="Ícone GitHub" height="28" width="28" />
-    <span style="color: #ffffff; font-family: sans-serif; font-weight: bold; font-size: 24px; letter-spacing: 0.5px;">GiulianoRibeiro</span>
-  </div>
-</h2>
+  <span style="display: inline-flex; align-items: center; gap: 8px;">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist" width="28" height="28" style="vertical-align: middle;" />
+    <span style="color: #ffffff; font-family: sans-serif; font-weight: bold; font-size: 24px; letter-spacing: 0.5px; vertical-align: middle;">Confira meu portfólio</span>
+  </span>
+
+  <!-- Bloco 2: GitHub e Nome -->
+  <span style="display: inline-flex; align-items: center; gap: 8px;">
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="Ícone GitHub" height="28" width="28" style="vertical-align: middle;" />
+    <span style="color: #ffffff; font-family: sans-serif; font-weight: bold; font-size: 24px; letter-spacing: 0.5px; vertical-align: middle;">GiulianoRibeiro</span>
+  </span>
+
 
  EM CONSTRUÇÃO
 
