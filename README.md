@@ -92,16 +92,11 @@
 
 ### Backend
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=000000)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-32CD32?style=for-the-badge&logo=postgresql&logoColor=black)
-![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-DAA520?style=for-the-badge&logo=microsoft-sql-server&logoColor=White)
+<img src="https://skillicons.dev/icons?i=python,java,postgres&theme=dark" />
 
 ### DevOps & Ferramentas
 
-![Visual Code](https://img.shields.io/badge/Visual_Studio_Code-191970?style=for-the-badge&logo=visual%20studio%20code&logoColor=White)
-![Docker](https://img.shields.io/badge/Docker-00FFFF?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/Git-B0C4DE?style=for-the-badge&logo=git)
+<img src="https://skillicons.dev/icons?i=vscode,docker,git,github&theme=dark" />
 
 ---
 
