@@ -61,34 +61,16 @@
 
 #### Análise e Visualização de Dados
 
-  <img src="https://img.shields.io/badge/SQL-intermediario-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
-  <img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
-  <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
-  <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
-</p
 
 #### Programação e Automação
 
-<p>
-<img src="https://img.shields.io/badge/Python-Intermediário-3776AB?style=flat&logo=python&logoColor=white" alt="Selo de Habilidade em Python">
-<img src="https://img.shields.io/badge/R-Iniciante-276DC3?style=flat&logo=r&logoColor=white" alt="Selo de Habilidade em R">
-</p>
+
 
 #### Business Intelligence e Analytics
 
-<p>
-<img src="https://img.shields.io/badge/Teste%20A%2FB-Experiente-FF6B6B?style=flat" alt="Selo de Habilidade em Teste A/B">
-<img src="https://img.shields.io/badge/Análise%20Estatística-Experiente-4ECDC4?style=flat" alt="Selo de Habilidade em Análise Estatística">
-<img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Selo de competência em Modelagem Preditiva">
-<img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="Selo de competência em Desenvolvimento de KPIs">
-</p>
 
 ### Frontend
 
-![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-DAA520?style=for-the-badge&logo=javascript&logoColor=000000)
-![TypeScript](https://img.shields.io/badge/TypeScript-ADD8E6?style=for-the-badge&logo=typescript)
 
 ### Backend
 
